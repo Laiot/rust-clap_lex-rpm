@@ -5,7 +5,7 @@
 %global crate clap_lex
 
 Name:           rust-%{crate}
-Version:        0.1.1
+Version:        0.2.0
 Release:        %autorelease
 Summary:        Minimal, flexible command line parser
 
